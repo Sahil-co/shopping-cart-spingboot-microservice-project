@@ -1,0 +1,5 @@
+com\programmingtechie\inventoryservice\repository\InventoryRepository.class
+com\programmingtechie\inventoryservice\controller\InventoryController.class
+com\programmingtechie\inventoryservice\InventoryServiceApplication.class
+com\programmingtechie\inventoryservice\model\Inventory.class
+com\programmingtechie\inventoryservice\service\InventoryService.class
